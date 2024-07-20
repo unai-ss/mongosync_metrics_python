@@ -65,6 +65,6 @@ If the plots aren't immediately visible after uploading the file, you may need t
 
 ## ToDo
 
-- Test with multiple mongosync versions, only tested with 1.6.1.
+-  only tested with 1.6.1.
 - Certified the time lines.
 - Create more metrics with "TRACE" debug level
